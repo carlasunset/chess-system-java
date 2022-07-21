@@ -32,6 +32,7 @@ public class Board {
 		return pieces[row][column];
 	}
 	
+	//sobrecarga
 	public Piece piece(Position position) {
 		return pieces[position.getRow()][position.getColumn()];
 	}
