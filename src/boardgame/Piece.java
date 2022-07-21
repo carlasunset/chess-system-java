@@ -14,5 +14,4 @@ public class Piece {
 		return board;
 	}
 	
-	//não possui o metodo set para não ser possivel modificar o Board
 }
